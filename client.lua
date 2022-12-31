@@ -7,6 +7,6 @@ Citizen.CreateThread(function()
                 SetEntityAsMissionEntity(v, false, false) 
                 DeleteEntity(v)
             end
-		end
+	end
     end
 end)
